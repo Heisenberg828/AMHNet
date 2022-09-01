@@ -3,11 +3,16 @@
 # Dataset
 If you want to use our NPU-DRD dataset, please apply to us in the following format:
 Subject: Application to download the NPU-DRD Database   
-Name: ***
-Affiliation: ***
-Department: ***
-Position:***
-Email: ****
+Name: *** 
+
+Affiliation: *** 
+
+Department: *** 
+
+Position:*** 
+
+Email: **** 
+
 
 The email address is huanjie_tao@126.com
 
