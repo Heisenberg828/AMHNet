@@ -1,5 +1,9 @@
 # AMHNet：A Gated Multi-Hierarchical Feature Fusion Network for Recognizing Steel Plate Surface Defects
 
+# Usage
+To train the model, please run python AMHNet/main.py
+
+
 # Dataset
 If you want to use our NPU-DRD dataset, please apply to us in the following format: 
 
