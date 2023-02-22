@@ -2,6 +2,7 @@
 
 # Usage
 To train the model, please run python AMHNet/main.py
+This code highly refers to "A Gated Multi-Hierarchical Feature Fusion Network for Recognizing Steel Plate Surface Defects".
 
 
 # Dataset
